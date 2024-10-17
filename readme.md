@@ -31,7 +31,9 @@ This helped visualize the correlations between various factors, such as anxiety 
 
 ## Files:
 - `StressLevelDataset.csv`: Contains data on 1,100 students and 21 attributes.
-- `ProblemStatement.pdf`: Outlines the specific questions and goals of the analysis.
+- `Problem_Statement.md`: Outlines the specific questions and goals of the analysis.
+- `Soltions_achieved.md`: Outlines the solutions achieved out of the analysis.
+- `Student_Stress_Factor_Analysis.pbix`: Power BI Dashbord
 - `README.md`: Project documentation.
 
 ## How to Run:
